@@ -18,6 +18,7 @@
  - Ghost / Invisible ships
  
  The plan for the future of the pack is to change the following:
+ - Ships very low LODs (apparently they use a solid color palette for those, easy to replace but rn im too lazy)
  - UI Elements and colors (possible, but due to the textures being similar, i need someone which knows what textures to replace)
  - HUD Icons (some of them were different)
  - Fonts (the fonts had different colors, however, they lack some glyphs, i might re-color them later)
