@@ -2,6 +2,8 @@
   A texture pack for the PAL version of Wipeout 3 (SCES-02845 [Special Edition]), to be used with RetroArch and Beetle PSX HW (Vulkan)
   Needless to say, you need an ISO / CD Image of the game , RetroArch and a PC or device that supports Vulkan for the replacements to work.
   
+  ![Alt text](https://github.com/Matsilagi/WO3-Beta-Texturepack/blob/main/sshot2.png?raw=true "Feisar and Assegai")
+  
 #### INSTALL INSTRUCTIONS
   Clone or download this repository as zip, extract or move the folder to the same place where your Wipeout 3 SE image is.
   After that, where it says imagename, rename it to be the same as the disc image name is on your PC, in my case, it is "Wipeout 3 - Special Edition (EU)-texture-replacements".
@@ -33,3 +35,7 @@
  If you wanna read about what could possibly be different back then, check out my article on TCRF here: https://tcrf.net/Proto:Wip3out_(Wipeout_3)
  
  I really hope more people make tools for Wipeout in the future. Its a worthy game to be preserved.
+ 
+ # More Screenshots
+ ![Alt text](https://github.com/Matsilagi/WO3-Beta-Texturepack/blob/main/sshot1.png?raw=true "Qirex")
+ ![Alt text](https://github.com/Matsilagi/WO3-Beta-Texturepack/blob/main/sshot3.png?raw=true "Icaras & Ghost Icaras")
