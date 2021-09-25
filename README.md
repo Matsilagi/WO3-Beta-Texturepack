@@ -18,13 +18,14 @@
  - Ghost / Invisible ships
  - Team Colors on Menus
  - Low-Poly Ships (LODs)
+ - Power-up icons
+ - HUD and UI colors (Partial)
  
  The plan for the future of the pack is to change the following:
  - UI Elements and colors (possible, but due to the textures being similar, i need someone which knows what textures to replace)
- - HUD Icons (some of them were different)
- - Fonts (the fonts had different colors, however, they lack some glyphs, i might re-color them later)
+ - Fonts (Still have some of them to recolor)
  - Ship concepts pack (Skins remade to look like the 3D concept ones, which had different colors from the ones used in the beta, despite having the same deisgn).
- - UI previews for the new colors
+ - UI previews for the new colors (hardest)
  - If other file replacements are possible, other stuff aswell? Who knows?
  - US and JAP version support (Possible, but im too lazy for that, if you want, make a push request with those replaced, and i'll make it public)
 	 
