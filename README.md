@@ -16,6 +16,7 @@
  The pack currently changes the following textures:
  - Ships
  - Ghost / Invisible ships
+ - Concept Art-like skins for the ships.
  - Team Colors on Menus
  - Low-Poly Ships (LODs)
  - Power-up icons
@@ -25,7 +26,6 @@
  The plan for the future of the pack is to change the following:
  - UI Elements and colors (possible, but due to the textures being similar, i need someone which knows what textures to replace)
  - Fonts (Still have some of them to recolor)
- - Ship concepts pack (Skins remade to look like the 3D concept ones, which had different colors from the ones used in the beta, despite having the same deisgn).
  - UI previews for the new colors (hardest)
  - If other file replacements are possible, other stuff aswell? Who knows?
  - US and JAP version support (Possible, but im too lazy for that, if you want, make a push request with those replaced, and i'll make it public)
@@ -33,7 +33,8 @@
 #### CREDITS
 
  Psygnosis Leeds for the original game, Sony and Studio Liverpool for the assets, XentaX community for the PBP and CMP scripts used to see the textures, and the creator of TIMViewer for the tool to see the textures.
- Me for digging the resources, figuring out the tools, finding the ISO and checking that it indeed had all the other ship textures and assets included.
+ Shara for the Concept Assegai skin (Originally made for Re-Volt)
+ Me for digging the resources, figuring out the tools, finding the ISO and checking that it indeed had all the other ship textures and assets included, and also making the Concept Icaras skin.
  
  If you wanna read about what could possibly be different back then, check out my article on TCRF here: https://tcrf.net/Proto:Wip3out_(Wipeout_3)
  
