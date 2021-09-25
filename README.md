@@ -20,6 +20,7 @@
  - Low-Poly Ships (LODs)
  - Power-up icons
  - HUD and UI colors (Partial)
+ - Power-up textures (Only ForceWall)
  
  The plan for the future of the pack is to change the following:
  - UI Elements and colors (possible, but due to the textures being similar, i need someone which knows what textures to replace)
