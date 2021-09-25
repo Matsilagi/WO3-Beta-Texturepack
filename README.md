@@ -42,3 +42,5 @@
  # More Screenshots
  ![Alt text](https://github.com/Matsilagi/WO3-Beta-Texturepack/blob/main/sshot1.png?raw=true "Qirex")
  ![Alt text](https://github.com/Matsilagi/WO3-Beta-Texturepack/blob/main/sshot3.png?raw=true "Icaras & Ghost Icaras")
+ ![Alt text](https://github.com/Matsilagi/WO3-Beta-Texturepack/blob/main/sshot4.png?raw=true "Forcewall Texture")
+ ![Alt text](https://github.com/Matsilagi/WO3-Beta-Texturepack/blob/main/sshot5.png?raw=true "Forcewall HUD Icon")
